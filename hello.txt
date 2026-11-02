@@ -21,3 +21,5 @@ fixed master test hot-fix
 github fetch test
 github clone test2 by demo1
 ssh test
+ssh test2 push
+
